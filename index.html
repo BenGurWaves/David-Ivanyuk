@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Selected Work — Friend Name</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand"><a href="./">FRIEND NAME</a></div>
+    <nav class="main-nav">
+      <a href="./">Work</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Selected Work — films, shorts & commercials</h1>
+      <p class="tagline">A film portfolio inspired by editorial, minimal, and image-first directors' sites.</p>
+    </section>
+
+    <section id="epigraph" class="epigraph">
+      <blockquote id="epigraph-text">“Replace this with a short epigraph or director quote.”</blockquote>
+    </section>
+
+    <section id="projects" class="projects-grid" aria-label="projects">
+      <!-- JS will populate project cards from projects.json -->
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>Contact: <a href="mailto:friend@example.com">friend@example.com</a></div>
+    <div class="social">Instagram • Vimeo • Email</div>
+  </footer>
+
+  <div id="overlay" class="overlay" hidden>
+    <button id="overlay-close" class="overlay-close" aria-label="Close">✕</button>
+    <div id="overlay-content" class="overlay-content"></div>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
