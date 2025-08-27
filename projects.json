@@ -1,0 +1,26 @@
+[
+  {
+    "id":"project-1",
+    "title":"Amber Veil — short film",
+    "thumb":"assets/amber-veil.jpg",
+    "video":"https://player.vimeo.com/video/00000000", 
+    "description":"A short description of the project. Replace with your own text.",
+    "credits":"Directed by Friend Name • DOP • Editor"
+  },
+  {
+    "id":"project-2",
+    "title":"Clouded Flame — commercial",
+    "thumb":"assets/clouded-flame.jpg",
+    "video":"https://player.vimeo.com/video/00000001",
+    "description":"Short synopsis or credits.",
+    "credits":"Client • Agency"
+  },
+  {
+    "id":"project-3",
+    "title":"Lavender Fade — music video",
+    "thumb":"assets/lavender-fade.jpg",
+    "video":"https://player.vimeo.com/video/00000002",
+    "description":"Notes, mood, location.",
+    "credits":"Artist • Director"
+  }
+]
