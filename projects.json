@@ -1,26 +1,26 @@
 [
   {
-    "id":"project-1",
-    "title":"Amber Veil — short film",
-    "thumb":"assets/amber-veil.jpg",
-    "video":"https://player.vimeo.com/video/00000000", 
-    "description":"A short description of the project. Replace with your own text.",
-    "credits":"Directed by Friend Name • DOP • Editor"
+    "id":"vid-1",
+    "title":"Short Film #1",
+    "thumb":"assets/vid1.jpg",
+    "video":"https://www.youtube.com/embed/0en2aZywbXM",
+    "description":"First selected short film by David Ivanyuk.",
+    "credits":"Directed by David Ivanyuk"
   },
   {
-    "id":"project-2",
-    "title":"Clouded Flame — commercial",
-    "thumb":"assets/clouded-flame.jpg",
-    "video":"https://player.vimeo.com/video/00000001",
-    "description":"Short synopsis or credits.",
-    "credits":"Client • Agency"
+    "id":"vid-2",
+    "title":"Short Film #2",
+    "thumb":"assets/vid2.jpg",
+    "video":"https://www.youtube.com/embed/QbBaijJk_oU",
+    "description":"Second selected short film.",
+    "credits":"Directed by David Ivanyuk"
   },
   {
-    "id":"project-3",
-    "title":"Lavender Fade — music video",
-    "thumb":"assets/lavender-fade.jpg",
-    "video":"https://player.vimeo.com/video/00000002",
-    "description":"Notes, mood, location.",
-    "credits":"Artist • Director"
+    "id":"vid-3",
+    "title":"Short Film #3",
+    "thumb":"assets/vid3.jpg",
+    "video":"https://www.youtube.com/embed/A-Zw7vA5XbY",
+    "description":"Third selected short film.",
+    "credits":"Directed by David Ivanyuk"
   }
 ]
